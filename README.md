@@ -37,6 +37,7 @@ The Markdown Note Taking App allows users to write, edit, and manage notes with 
 ### Additional library:
 1. Commonmark
 2. itextpdf
+3. XMLworker
 
 ### Steps:
 1. Navigate to the folder you want to clone:
