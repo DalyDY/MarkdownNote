@@ -45,7 +45,7 @@ The Markdown Note Taking App allows users to write, edit, and manage notes with 
    cd /path/to/your/folder
 2. Clone the repository:
    ```bash
-   git clone https://github.com/username/markdown-note-app.git
+   git clone https://github.com/DalyDY/MarkdownNote.git
 3. Navigate to the repository folder:
    ```bash
    cd repository-name
