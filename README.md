@@ -33,7 +33,7 @@ The Markdown Note Taking App allows users to write, edit, and manage notes with 
 ---
 
 ## Installation
-- This is the installation for eclpise IDE only
+- This is the installation for eclipse IDE only
 ### Additional library:
 1. Commonmark
 2. itextpdf
